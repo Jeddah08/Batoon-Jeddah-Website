@@ -16,7 +16,7 @@
   }
 
   .static {
-    background-color: #2D9596;
+    background-color: #962d2d;
     margin-bottom: 3px;
     height: 300px;
     border: 5px solid #67c6e3;
@@ -26,7 +26,7 @@
     margin-bottom: 3px;
     height: 240px;
     width: 725px;
-    background-color: #9Ad0c2;
+    background-color: #9cd09a;
     border:  #67c6e3;
   }
   .fixed {
@@ -34,7 +34,7 @@
     width: 1500px;
     height: 80px;
     top: 0;
-    background-color: #265073;
+    background-color: #732666;
   }
 
   .sticky {
@@ -43,6 +43,6 @@
     top: 10px;
     width: 725px;
     height: 250px;
-    background-color: orangered;
+    background-color: rgb(255, 0, 55);
     border:  #67c6e3;
   }

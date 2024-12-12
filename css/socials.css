@@ -1,5 +1,5 @@
 body {
-  background: linear-gradient(to right, rgb(93, 156, 164), rgb(100, 133, 137), #DBA9B8, #EFA6AA, #EF4A81 );
+  background: rgb(226, 119, 119);
 }
 
 * {
@@ -27,7 +27,7 @@ nav ul li {
 }
 
 nav ul li a {
-  color: darkcyan;
+  color: rgb(139, 0, 0);
   text-decoration: none;
   padding: 10px 15px;
   font-size: 30px;
@@ -56,7 +56,7 @@ h1 {
   text-align: center;
   margin-top: 60px ;
   margin-left:350px ;
-  background-color: rgb(246, 246, 144);
+  background-color: rgb(246, 151, 144);
   font-size: 25px;
 
 }
@@ -86,7 +86,7 @@ h1 {
 
 .form-container {
   border: 3px solid #FF6EC7;
-  width:40%;
+  width:35%;
   margin:0 auto;
   margin-top: 60px;
   padding:20px;

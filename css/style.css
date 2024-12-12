@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient(to right, rgb(255, 229, 180), #FFD1DC, #82EEFD);
+    background: rgb(226, 119, 119);
 }
 
 .center {
@@ -10,12 +10,12 @@ body {
     font-size: 80px;
     text-align: center;
     margin-top: 150px;
-    color: palevioletred;
+    color: rgb(45, 236, 45);
 }
 
 .navbar {
     overflow: hidden;
-    background-color: aliceblue;
+    background-color: ;
 }
 
 .file-directory {
@@ -27,7 +27,7 @@ body {
 .file-directory a {
     float: left;
     display: block;
-    color: gold;
+    color: rgb(76, 0, 255);
     text-align: center;
     font-size: xx-large;
     padding: 14px 16px;
